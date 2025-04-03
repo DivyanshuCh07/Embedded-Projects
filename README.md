@@ -18,6 +18,6 @@ This repository contains my Embedded Systems projects and presentations, showcas
 - **Hardware Tools:** Logic Analyzer, Oscilloscope, Sensor Modules  
 
 ## 📬 Contact  
-- **LinkedIn:** [Your LinkedIn](https://linkedin.com/in/yourprofile)  
-- **GitHub:** [Your GitHub](https://github.com/yourusername)  
+- **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/divyanshu-choudhary-b73801251)  
+- **GitHub:** [GitHub](https://github.com/DivyanshuCh07)  
 - **Email:** divyanshu3684@gmail.com  
